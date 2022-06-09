@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @itsanaclaudia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I'm Ana Claudia 
+- I’m interested in learn everything about computer science but I'm new at this "world"
+- I’m currently learning english
+- I'm working as a dental assistant
 
-<!---
-itsanaclaudia/itsanaclaudia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href"https://www.instagram.com/4na.claudia/" target" _blank><ing/a>
+<div>
 

@@ -8,3 +8,5 @@
 
 
 ![Ana claudia GitHub stats](https://github-readme-stats.vercel.app/api?username=itsanaclaudia&show_icons=true&theme=radical)
+
+## Today a reader, tomorrow a leader.
